@@ -5,8 +5,8 @@
 <h4>:seedling: Actualmente estoy aprendiendo: <b>HTML, CSS, JavaScript y .lua<b><br/></h4>
   <pre>
   Durante muchos años trabaje con estas herramientas sin saber completamente como funcionaban, siempre me las ingenie para 
-  poder modificar o recrear algo que ya estaba hecho pero con el tiempo me decidí empezar a aprender un poco mas cada una de 
-  estas herramientas de una forma mas completa. Es así que me encuentro estudiando la carrera de Full Stack Developer. </pre>
+  poder modificar o recrear algo que ya estaba hecho pero con el tiempo me decidí empezar a aprender un poco mas cada una
+  de estas herramientas de una forma mas completa. Es así que me encuentro estudiando la carrera de Full Stack Developer. </pre>
  <hr/>  
    
 :man_technologist: Todos mis trabajos los puedes ver en mi repositorio: [https://github.com/mariano-sotelo](https://github.com/mariano-sotelo)<br/>
