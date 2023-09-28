@@ -9,7 +9,7 @@
   de estas herramientas de una forma mas completa. Es así que me encuentro estudiando la carrera de Full Stack Developer. </pre>
  <hr/>  
    
-:man_technologist: Todos mis trabajos los puedes ver en mi repositorio: [https://github.com/mariano-sotelo](https://github.com/mariano-sotelo)<br/>
+:man_technologist: Todos mis trabajos los puedes ver en mi repositorio: [https://github.com/SMarianoDev](https://github.com/SMarianoDev)<br/>
   <pre>
   Tengo varias paginas creadas pero algunas no se encuentran en mi repositorio. Tratare de ir actualizando con los 
   trabajos que fui realizando durante estos año.s</pre>
